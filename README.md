@@ -2,7 +2,7 @@ UILabel+FormattedText
 =====================
 
 An iOS UILabel extension to enable easy definition of multiple colors, fonts and styles in a single label.
-This extension is written in Swift 2.0.
+This extension is written in Swift 4.0.
 
 ![Example Screen Capture](https://github.com/joaoffcosta/UILabel-FormattedText/blob/master/example.png)
 
